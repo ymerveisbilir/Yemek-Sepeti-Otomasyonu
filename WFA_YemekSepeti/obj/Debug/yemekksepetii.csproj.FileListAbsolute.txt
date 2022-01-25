@@ -1,0 +1,266 @@
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\bin\Debug\kullanicilogin.mdb
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.exe.config
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.exe
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.pdb
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\bin\Debug\MetroFramework.dll
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\bin\Debug\loginyemeksepeti.pdb
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.AssemblyReference.cache
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.SuggestedBindingRedirects.cache
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Anasayfa.resources
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.bayramoglu.resources
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.BurgerKing.resources
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Dominos.resources
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Form1.resources
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.burger.resources
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.GreenSalads.resources
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.LoginEkran.resources
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Properties.Resources.resources
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.GenerateResource.cache
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.CoreCompileInputs.cache
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.CopyComplete
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.exe
+C:\Users\denii\Desktop\yemek\WFA_YemekSepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.pdb
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\kullanicilogin.mdb
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.exe.config
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.exe
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.pdb
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\MetroFramework.dll
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\loginyemeksepeti.pdb
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.AssemblyReference.cache
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.bayramoglu.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Dominos.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.burger.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.GreenSalads.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.LoginEkran.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Properties.Resources.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.GenerateResource.cache
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.CopyComplete
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.exe
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.pdb
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Sepetim.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Anasayfa.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.BakırköyProfiterol.resources
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\kullanicilogin.mdb
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.exe.config
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.exe
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.pdb
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\MetroFramework.dll
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\loginyemeksepeti.pdb
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.AssemblyReference.cache
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.SuggestedBindingRedirects.cache
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.BakırköyProfiterol.resources
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.bayramoglu.resources
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Dominos.resources
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Anasayfa.resources
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.burger.resources
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.GreenSalads.resources
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.LoginEkran.resources
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Properties.Resources.resources
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Sepetim.resources
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.GenerateResource.cache
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.CoreCompileInputs.cache
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.CopyComplete
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.exe
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.pdb
+C:\Users\denii\Desktop\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.FarukGulluoglu.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\kullanicilogin.mdb
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.exe.config
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.exe
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.pdb
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\MetroFramework.dll
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\loginyemeksepeti.pdb
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.AssemblyReference.cache
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.BakırköyProfiterol.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.bayramoglu.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Dominos.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Anasayfa.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.burger.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.FarukGulluoglu.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.GreenSalads.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.LoginEkran.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.popeyes.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Properties.Resources.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Sepetim.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.GenerateResource.cache
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.CopyComplete
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.exe
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.pdb
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\kullanicilogin.mdb
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.exe.config
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.exe
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.pdb
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\MetroFramework.dll
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\bin\Debug\loginyemeksepeti.pdb
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.AssemblyReference.cache
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.SuggestedBindingRedirects.cache
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.BakırköyProfiterol.resources
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.bayramoglu.resources
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Dominos.resources
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Anasayfa.resources
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.burger.resources
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.FarukGulluoglu.resources
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.GreenSalads.resources
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.LoginEkran.resources
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.popeyes.resources
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Properties.Resources.resources
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Sepetim.resources
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.GenerateResource.cache
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.CoreCompileInputs.cache
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.CopyComplete
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.exe
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.pdb
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.baydoner.resources
+C:\Users\denii\Desktop\yemekksepeti (1) (3) (1)\yemekksepeti (1) (3)\yemekksepeti (1)\yemekksepeti (1)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.terrapizza.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\kullanicilogin.mdb
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.exe.config
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.exe
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.pdb
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\MetroFramework.dll
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\loginyemeksepeti.pdb
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.AssemblyReference.cache
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.BakırköyProfiterol.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.baydoner.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.bayramoglu.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Dominos.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Anasayfa.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.burger.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.FarukGulluoglu.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.GreenSalads.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.LoginEkran.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.popeyes.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Properties.Resources.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Sepetim.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.terrapizza.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.GenerateResource.cache
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.CopyComplete
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.exe
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.pdb
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Onay.resources
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\kullanicilogin.mdb
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.exe.config
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.exe
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.pdb
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\MetroFramework.dll
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\loginyemeksepeti.pdb
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.AssemblyReference.cache
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.SuggestedBindingRedirects.cache
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.BakırköyProfiterol.resources
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.baydoner.resources
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.bayramoglu.resources
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Dominos.resources
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Anasayfa.resources
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.burger.resources
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.FarukGulluoglu.resources
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.GreenSalads.resources
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.LoginEkran.resources
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Onay.resources
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.popeyes.resources
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Properties.Resources.resources
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Sepetim.resources
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.terrapizza.resources
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.GenerateResource.cache
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.CoreCompileInputs.cache
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.CopyComplete
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.exe
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.pdb
+C:\Users\denii\Desktop\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.son.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\kullanicilogin.mdb
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.exe.config
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.exe
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.pdb
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\MetroFramework.dll
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\loginyemeksepeti.pdb
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.AssemblyReference.cache
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.BakırköyProfiterol.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.baydoner.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.bayramoglu.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Dominos.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Anasayfa.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.burger.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.FarukGulluoglu.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.GreenSalads.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.LoginEkran.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Onay.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.popeyes.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Properties.Resources.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Sepetim.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.son.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.terrapizza.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.GenerateResource.cache
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.CopyComplete
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.exe
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.pdb
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\kullanicilogin.mdb
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.exe.config
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.exe
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.pdb
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\MetroFramework.dll
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\loginyemeksepeti.pdb
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.AssemblyReference.cache
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.SuggestedBindingRedirects.cache
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.BakırköyProfiterol.resources
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.baydoner.resources
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.bayramoglu.resources
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Dominos.resources
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Anasayfa.resources
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.burger.resources
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.FarukGulluoglu.resources
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.GreenSalads.resources
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.LoginEkran.resources
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Onay.resources
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.popeyes.resources
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Properties.Resources.resources
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Sepetim.resources
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.son.resources
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.terrapizza.resources
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.GenerateResource.cache
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.CoreCompileInputs.cache
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.CopyComplete
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.exe
+C:\Users\denii\Desktop\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.pdb
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\kullanicilogin.mdb
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.exe.config
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.exe
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\WFA_YemekSepeti.pdb
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\MetroFramework.dll
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\bin\Debug\loginyemeksepeti.pdb
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.AssemblyReference.cache
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.SuggestedBindingRedirects.cache
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.BakırköyProfiterol.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.baydoner.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.bayramoglu.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Dominos.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Anasayfa.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.burger.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.FarukGulluoglu.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.GreenSalads.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.LoginEkran.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Onay.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.popeyes.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Properties.Resources.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.Sepetim.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.son.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.terrapizza.resources
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.GenerateResource.cache
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\yemekksepetii.csproj.CopyComplete
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.exe
+C:\Users\MERVE\OneDrive\Masaüstü\yemekksepeti (2) (1)\yemekksepeti (2) (1)\yemekksepeti (2)\yemekksepeti (2)\yemekksepeti\WFA_YemekSepeti\obj\Debug\WFA_YemekSepeti.pdb

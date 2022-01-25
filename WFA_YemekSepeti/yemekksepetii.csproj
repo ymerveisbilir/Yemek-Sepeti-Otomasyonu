@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5D536B44-AB9D-4727-8D32-A4920EAD1059}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WFA_YemekSepeti</RootNamespace>
+    <AssemblyName>WFA_YemekSepeti</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="loginyemeksepeti">
+      <HintPath>..\..\login\login\loginyemeksepeti\loginyemeksepeti\obj\Debug\loginyemeksepeti.exe</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.RunTime.1.2.0.3\lib\net40-Client\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Design.1.2.0.3\lib\net40\MetroFramework.Design.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Fonts.1.2.0.3\lib\net40\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BakırköyProfiterol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BakırköyProfiterol.Designer.cs">
+      <DependentUpon>BakırköyProfiterol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="baydoner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="baydoner.Designer.cs">
+      <DependentUpon>baydoner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bayramoglu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bayramoglu.Designer.cs">
+      <DependentUpon>bayramoglu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dominos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dominos.Designer.cs">
+      <DependentUpon>Dominos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anasayfa.Designer.cs">
+      <DependentUpon>Anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="burger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="burger.Designer.cs">
+      <DependentUpon>burger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FarukGulluoglu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FarukGulluoglu.Designer.cs">
+      <DependentUpon>FarukGulluoglu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GreenSalads.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GreenSalads.Designer.cs">
+      <DependentUpon>GreenSalads.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginEkran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginEkran.Designer.cs">
+      <DependentUpon>LoginEkran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Onay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Onay.Designer.cs">
+      <DependentUpon>Onay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="popeyes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="popeyes.Designer.cs">
+      <DependentUpon>popeyes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sepetim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sepetim.Designer.cs">
+      <DependentUpon>Sepetim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="son.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="son.Designer.cs">
+      <DependentUpon>son.cs</DependentUpon>
+    </Compile>
+    <Compile Include="terrapizza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="terrapizza.Designer.cs">
+      <DependentUpon>terrapizza.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BakırköyProfiterol.resx">
+      <DependentUpon>BakırköyProfiterol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="baydoner.resx">
+      <DependentUpon>baydoner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bayramoglu.resx">
+      <DependentUpon>bayramoglu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dominos.resx">
+      <DependentUpon>Dominos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Anasayfa.resx">
+      <DependentUpon>Anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="burger.resx">
+      <DependentUpon>burger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FarukGulluoglu.resx">
+      <DependentUpon>FarukGulluoglu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GreenSalads.resx">
+      <DependentUpon>GreenSalads.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginEkran.resx">
+      <DependentUpon>LoginEkran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Onay.resx">
+      <DependentUpon>Onay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="popeyes.resx">
+      <DependentUpon>popeyes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Sepetim.resx">
+      <DependentUpon>Sepetim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="son.resx">
+      <DependentUpon>son.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="terrapizza.resx">
+      <DependentUpon>terrapizza.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="kullanicilogin.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MetroFramework.txt" />
+    <None Include="Resources\yemeksepeti-logo1.jpg" />
+    <None Include="Resources\tik-isareti-nasil-yapilir-klavyede-tik-isareti-yapilisi.jpg" />
+    <None Include="Resources\1613053593649_500x375.jpeg" />
+    <None Include="Resources\web_liste_sampiyon_menu.png" />
+    <None Include="Resources\web_listeleme_kavurmali_2707.jpg" />
+    <None Include="Resources\web_listeleme_bolbol_2707.jpg" />
+    <None Include="Resources\web_listeleme_4peynirli_2707.jpg" />
+    <None Include="Resources\5d601eb0ae298be394f503dd1.jpg" />
+    <None Include="Resources\5d601eb0ae298be394f503dd.jpg" />
+    <None Include="Resources\indir %282%29.png" />
+    <None Include="Resources\baydoner-iskender-menu.jpg" />
+    <None Include="Resources\firin-sutlac.jpg" />
+    <None Include="Resources\beyti-doner-iskender.jpg" />
+    <None Include="Resources\kankamla-coss-menu-1.jpg" />
+    <None Include="Resources\baydoner-fiyatlari-2019-uygun-fiyatli-orijinal-iskender-lezzeti-coss.jpg" />
+    <None Include="Resources\baydoener.jpg" />
+    <None Include="Resources\sufle-kabi-6li-set-10cm-servis-sunum-urunleri-tepehome-0-21533-52-B.jpg" />
+    <None Include="Resources\soganhalkasi.jpg" />
+    <None Include="Resources\indir %281%29.png" />
+    <None Include="Resources\1619129948894_1125x522.jpeg" />
+    <None Include="Resources\yepyeni-eko-kova-menu-770x470.jpg" />
+    <None Include="Resources\1623139513057_500x375.jpeg" />
+    <None Include="Resources\4-kisilik-doyuran-kova-menu.jpg" />
+    <None Include="Resources\maxi-tavukburger-menu.png" />
+    <None Include="Resources\find_2020427_17638710.jpg" />
+    <None Include="Resources\indir1.png" />
+    <None Include="Resources\130-216-jpg-216.jpg" />
+    <None Include="Resources\116-210-jpg-210.jpg" />
+    <None Include="Resources\121-194-jpg-194.jpg" />
+    <None Include="Resources\124-197-jpg-197.jpg" />
+    <None Include="Resources\73-234-jpg-234.jpg" />
+    <None Include="Resources\57-105-jpg-105.jpg" />
+    <None Include="Resources\45-233-jpg-233.jpg" />
+    <None Include="Resources\156023.jpg" />
+    <None Include="Resources\havucdilim1-800x800.jpg" />
+    <None Include="Resources\11838863-728xauto.jpg" />
+    <None Include="Resources\evde-salgam-suyu-tarifi_2531384_1200x627.jpg" />
+    <None Include="Resources\728xauto.jpg" />
+    <None Include="Resources\photo0jpg.jpg" />
+    <None Include="Resources\indir.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
